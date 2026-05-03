@@ -1,0 +1,13 @@
+{
+  "name": "YOJANA AI",
+  "description": "AI-powered Government Scheme Eligibility Checker and Smart Assistance Platform for Karnataka and India. Features smart profile matching, voice input, and step-by-step application guidance.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI Eligibility Engine",
+    "Multilingual Voice Support",
+    "Document Checklist",
+    "Smart Notifications"
+  ]
+}
